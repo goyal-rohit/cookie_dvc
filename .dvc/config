@@ -1,4 +1,6 @@
 [core]
-    remote = remote
+    remote = remote2
 ['remote "remote"']
     url = /temp/cook_dvc
+['remote "remote2"']
+    url = ../temp/cook_dvc
